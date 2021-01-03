@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          (Almost) a poduction grade deployment
+          Almost a poduction grade deployment
         </a>
       </header>
     </div>
