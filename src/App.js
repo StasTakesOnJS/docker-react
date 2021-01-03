@@ -17,6 +17,14 @@ function App() {
         >
           Kiss my ass for sugar
         </a>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Right now
+        </a>
       </header>
     </div>
   );
