@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Kiss my ass for sugar
+          (Almost) a poduction grade deployment
         </a>
       </header>
     </div>
